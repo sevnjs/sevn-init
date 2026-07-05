@@ -1,0 +1,26 @@
+SevnJS
+Copyright © 2022–2026 mGeek.in
+
+Authored and maintained by Dr. Prateek Raj Gautam.
+
+Project website:
+https://sevnjs.mgeek.in
+
+This distribution includes code derived from earlier mGeek projects,
+including legacy versions of GeneratorJs.
+
+Optional Attribution
+
+If you find SevnJS useful, attribution such as
+"SevnJS by Dr. Prateek Raj Gautam (mGeek.in)"
+in your documentation, About page, or acknowledgements is appreciated but is not required by the Apache License 2.0.
+
+Support Development
+
+If you'd like to support the continued development of SevnJS, donations are welcome:
+https://github.com/sponsors/prateekrajgautam
+
+License Notice
+
+This project is licensed under the Apache License, Version 2.0.
+When redistributing this software, please retain both the LICENSE and NOTICE files as required by the license.
